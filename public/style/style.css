@@ -1,0 +1,9 @@
+#country-detail-container{
+    display: flex;
+    height: 200px;
+    background-color: red;
+}
+
+#country-flag{
+  background-color: red;
+}
